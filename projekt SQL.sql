@@ -1,3 +1,6 @@
+--author: Adam Krejčí
+--email: adam.krejci.1915@gmail.com
+
 -- View payroll for Table 1
 CREATE VIEW v_payroll_clean AS 
 SELECT
