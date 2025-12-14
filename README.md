@@ -48,7 +48,7 @@ Secondary table containing macroeconomic data for European countries.
 
 ### Question 1: Wage development by sector
 - **All sectors have a predominantly increasing trend**
-- Only one sector has seen a decrease in wages for more than 3 years
+- Only Těžba a dobývání has seen a decrease in wages for more than 2 years
 
 ### Question 2: Purchasing power - milk and bread
 - **Purchasing power has increased in 12 years**
