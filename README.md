@@ -58,7 +58,7 @@ Secondary table containing macroeconomic data for European countries.
 ### Question 3: Slowest price increases
 - **Categories with the lowest price growth identified**
 - Some food prices are rising significantly slower than average
-- Categories with even decreasing prices are Rajská jablka červená kulatá and Cukr krystalový
+- Categories with decreasing prices are Rajská jablka červená kulatá and Cukr krystalový
 
 ### Question 4: Significant difference in prices vs. wages (>10%)
 - **There are no years with a significant difference**
