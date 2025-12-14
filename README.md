@@ -33,7 +33,7 @@ Primary table containing data on wages and food prices for the Czech Republic.
 - `category_name` - Food name
 - `price_unit` - Unit (kg, l, pcs)
 - `avg_price` - Average price of food (CZK)
-- 
+
 ### `t_adam_krejci_project_SQL_secondary_final`
 Secondary table containing macroeconomic data for European countries.
 
