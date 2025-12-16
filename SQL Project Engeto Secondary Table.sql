@@ -1,4 +1,3 @@
--- Secondary Table
 CREATE TABLE t_adam_krejci_project_SQL_secondary_final AS
 WITH european_countries AS (
     SELECT country
